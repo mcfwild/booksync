@@ -1,6 +1,7 @@
 # booksync
 Create your own Booksync widget using v3 of their API
 
+```javascript
 <script type="text/javascript">
 $$(function() {
   var options = {
@@ -10,3 +11,4 @@ $$(function() {
   $('.mini-be-booksync-single').booksync_widget(options);
 });
 </script>
+```
